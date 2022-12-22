@@ -16,7 +16,7 @@ Functional programmers that use traditional multi-paradigm languages should also
 
 fp-unite seeks to empower functional programming to the mainstream so we can make it more relevant by creating jobs, high-quality libraries, and having a supportive tribe for sharing knowledge and collaborating.
 
-**To keep the quality of the community high and motivational, we have a few guidelines that we will moderate by:**
+**To maintain a community of high quality, we have a few guidelines that we will moderate by:**
 
 ## 1. A safe space 
 
