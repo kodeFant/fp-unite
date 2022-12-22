@@ -1,4 +1,4 @@
-# fp-unite
+# fp-unite (working title)
 
 fp-unite seeks to be a private support group for individuals in the functional programming space that are brave enough to serve others with software or content, be it open source or commercial.
 
