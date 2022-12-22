@@ -2,7 +2,7 @@
 
 fp-unite seeks to be a private support group for individuals in the functional programming space that are brave enough to serve others with software or content, be it open source or commercial.
 
-We have one requirement for joining: You are building something for the public with functional programming. It can be commercial, open source or a side-project.
+**We have one requirement for joining: You are building something for the public with functional programming. It can be commercial, open source or a side-project.**
 
 We encourage sharing your products, maker's journey, wins, failures, frustrations and questions.
 
