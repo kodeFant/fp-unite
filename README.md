@@ -42,7 +42,7 @@ If you have constructive feedback, we strongly encourage pointing out something 
 
 Communication often fails on the internet, and actively displaying that you wish your peers well is a good failsafe against unintentionally discouraging their journey.
 
-Your experience and knowledge can be help to others. Stay humble, show empathy, and don't weaponize your knowledge.
+Your experience and knowledge can be of invaluable help to others, but also be intimidating to newcomers. Stay humble, show empathy, and don't weaponize your knowledge.
 
 Don't discourage someone from making something you "know" will fail. Allow less experienced builders, and experimentalists the opportunity of a learning experience unless they explicitly seek to be roasted.
 
