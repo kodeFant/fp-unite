@@ -14,7 +14,7 @@ We think that people who share this set of common engineering values, can find a
 
 Functional programmers that uses traditional multi-paradigm languages should also feel equally welcome.
 
-fp-unite seeks to empower functional programming to the mainstream so we can make it more relevant by creating jobs, high quality libraries and having a supportive tribe for sharing knowledge.
+fp-unite seeks to empower functional programming to the mainstream so we can make it more relevant by creating jobs, high quality libraries and having a supportive tribe for sharing knowledge and collaborate.
 
 To keep the quality of the community high and motivating, we have a few guidelines that we will try to moderate as fairly as possible:
 
