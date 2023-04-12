@@ -2,11 +2,11 @@
 
 fp-unite is a private support group for individuals in the functional programming space that are brave enough to build software or content for the public, be it open source or commercial.
 
-**We have one requirement for joining: You are building something for the public with functional programming. It can be commercial, open source, or a side-project.**
+**We have one requirement for joining: You are a freelancer or building a commercial project with functional programming.**
 
 We encourage sharing your products, the maker's journey, wins, failures, frustrations, and questions.
 
-Relevant members of this group can be consultants, freelancers, entrepreneurs, indie hackers, content creators, book writers, and open-source maintainers that use functional programming as their tool of choice.
+Relevant members of this group can be consultants, freelancers, entrepreneurs, indie hackers, content creators and book writers that use functional programming as their tool of choice.
 
 If you aren't building something yet, you can join later when you have something brewing that you are willing to share :)
 
@@ -18,15 +18,11 @@ fp-unite seeks to empower functional programming to the mainstream so we can mak
 
 **To maintain a community of high quality, we have a few guidelines that we will moderate by:**
 
-## 1. A safe space 
+## 1. A safe space
 
-This circle exists to inspire and root for our like-minded peers. 
+This circle exists to inspire and root for our like-minded peers.
 
 Let's keep polarization and heated debates to other circles. Take the high road and move on.
-
-Representatives of different ethnicities, gender identities, and other minorities shall be treated with equal respect.
-
-We encourage members of marginalized groups to engage as moderators/contributors or keep moderators accountable to ensure that open and unconscious biases aren't making others feel left out in the cold.
 
 We should also strive, to a limited extent, to give people who make unconscious mistakes the opportunity to correct themselves without being instantly shunned.
 
@@ -57,3 +53,9 @@ Limit introducing your project to the #showcase channel to only a single post to
 Do not demand others to make time for you or validate you. Feel free to seek advice and share frustrations about your journey, but respect other people's time.
 
 Don't put pressure on people who might have good reasons for prioritizing themselves, their families, and their businesses.
+
+## How to join
+
+This is a brand new community and we need to figure things out as we go.
+
+For now, just send a DM to https://twitter.com/haskellpreneur with just a presentation about you and what you work on
