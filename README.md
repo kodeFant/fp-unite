@@ -1,6 +1,6 @@
 # fp-unite (working title)
 
-fp-unite is a private support group for individuals in the functional programming space that are brave enough to build software or content for the public, be it open source or commercial.
+fp-unite is a private support group for individuals in the functional programming space that are brave enough to build software or content for the public.
 
 **We have one requirement for joining: You are a freelancer or building a commercial project with functional programming.**
 
