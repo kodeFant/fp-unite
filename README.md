@@ -44,7 +44,7 @@ Don't discourage someone from making something you "know" will fail. Allow less 
 
 ## 3. Introduce and promote yourself
 
-We love to hear about what you are working on. Please share a lot in the #shamelessplugs channel, like new features, daily micro journals about your experiences, etc.
+We love to hear about what you are working on. Please share a lot in the #dailyupdates channel, like new features, daily micro journals about your experiences, etc.
 
 Limit introducing your project to the #showcase channel to only a single post to give everyone equal chance for some visibility.
 
